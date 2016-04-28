@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "intent": "DefineCyberpunkWord",
+      "slots": [
+        {
+          "name": "CyberpunkWord",
+          "type": "LIST_OF_CYBERPUNK_WORDS"
+        }
+      ]
+    },
+    {
+      "intent": "PickCyberpunkWord"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "Sindome"
+    }
+  ]
+}

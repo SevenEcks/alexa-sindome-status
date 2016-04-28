@@ -1,0 +1,6 @@
+{
+    "name" : "get_status_overview",
+    "card_title" : "Sindome Status Overview",
+    "response" : "The Sindome Status Overview is as follows: {0} services up and {1} services down.  Ask me for a detailed breakdown or for help to hear more options.",
+    "reprompt" : "You can ask me for help to hear a list of commands."
+}

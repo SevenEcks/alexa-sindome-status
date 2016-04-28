@@ -1,0 +1,43 @@
+{
+  "title": "Ping Checks",
+  "error": null,
+  "checks": [
+    {
+      "name": "Main Website",
+      "status": "up"
+    },
+    {
+      "name": "GoJIRA",
+      "status": "up"
+    },
+    {
+      "name": "Lore Wiki",
+      "status": "up"
+    },
+    {
+      "name": "Web Client",
+      "status": "up"
+    },
+    {
+      "name": "SINDO.ME",
+      "status": "up"
+    },
+    {
+      "name": "MOO",
+      "status": "up"
+    },
+    {
+      "name": "NLM Gridworks",
+      "status": "up"
+    },
+    {
+      "name": "WHO",
+      "status": "up"
+    },
+    {
+      "name": "Status Page",
+      "status": "up"
+    }
+  ],
+  "timestamp": "2016-04-27T22:49:40.478Z"
+}
